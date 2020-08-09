@@ -4,7 +4,7 @@ public class IlkClass {
 
 	public static void main(String[] args) {
 	
-		System.out.println("Hamza'dan selamlar..");
+		System.out.println("Techproed'den selamlar..");
 
 	}
 
